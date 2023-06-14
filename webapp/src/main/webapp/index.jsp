@@ -1,4 +1,7 @@
-set nocompatible
+
+
+
+
 <form action="action_page.php">
   <div class="container">
     <h1>Hello Esteemed User, Please Register for DevOps Digital University</h1>
