@@ -1,6 +1,7 @@
+set nocompatible
 <form action="action_page.php">
   <div class="container">
-    <h1>Please Register for DevOps Digital University</h1>
+    <h1>Hello Esteemed User, Please Register for DevOps Digital University</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
